@@ -1,0 +1,10 @@
+Domain,Source / verbatim term,Normalized term,Coding term / representation,Decision & rationale
+Product,Amoxicillin,Amoxicillin,Amoxicillin,Normalized to active medicinal ingredient; no brand/manufacturer supplied.
+Dose,500 mg,500 mg,500 mg,Retained exactly; no conversion required.
+Dosage form,Capsule,Capsule,Capsule,Retained exactly.
+Route,Oral,Oral,Oral,Retained exactly.
+Indication,Acute bacterial sinusitis,Acute bacterial sinusitis,Acute sinusitis (medical concept),Normalized without adding a different diagnosis.
+Reaction,Urticaria,Urticaria,Urticaria (MedDRA Preferred Term),Direct match to reported reaction term.
+Reaction detail,Mild facial swelling,Facial swelling,Face oedema (MedDRA Preferred Term),Separate reported clinical sign; no extra severity inferred.
+Outcome,Recovered/resolved,Recovered/resolved,Recovered/resolved,"Case outcome field, not a reaction code."
+Causality,Probable,Probable,Probable,Retained from source; not independently altered.

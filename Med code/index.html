@@ -1,0 +1,43 @@
+<!doctype html><html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Medical Coding & Narrative Quality — ICSR-2026-0001</title>
+<style>
+body{font-family:Arial,sans-serif;max-width:1100px;margin:auto;padding:24px;background:#f7f6fb;color:#222;line-height:1.5}
+.card{background:#fff;padding:24px;border-radius:16px;margin:18px 0;box-shadow:0 2px 10px #ddd}
+h1,h2{color:#4d2c69}table{width:100%;border-collapse:collapse}th,td{border:1px solid #ddd;padding:9px;vertical-align:top;text-align:left}th{background:#eee8f6}
+.badge{display:inline-block;padding:6px 12px;border-radius:20px;background:#e4f6ed;color:#146c4b;font-weight:bold}
+pre{white-space:pre-wrap}
+</style></head><body>
+<div class="card"><h1>Medical Coding and Narrative Quality</h1><p><span class="badge">Case ICSR-2026-0001</span></p>
+<p><b>Objective:</b> Produce traceable coding decisions and a neutral safety narrative without adding facts.</p></div>
+<div class="card"><h2>1. Coding Worksheet</h2><table><tr><th>Domain</th><th>Source / verbatim</th><th>Normalized</th><th>Coding term</th><th>Rationale</th></tr><tr><td>Product</td><td>Amoxicillin</td><td>Amoxicillin</td><td>Amoxicillin</td><td>Normalized to active medicinal ingredient; no brand/manufacturer supplied.</td></tr><tr><td>Dose</td><td>500 mg</td><td>500 mg</td><td>500 mg</td><td>Retained exactly; no conversion required.</td></tr><tr><td>Dosage form</td><td>Capsule</td><td>Capsule</td><td>Capsule</td><td>Retained exactly.</td></tr><tr><td>Route</td><td>Oral</td><td>Oral</td><td>Oral</td><td>Retained exactly.</td></tr><tr><td>Indication</td><td>Acute bacterial sinusitis</td><td>Acute bacterial sinusitis</td><td>Acute sinusitis (medical concept)</td><td>Normalized without adding a different diagnosis.</td></tr><tr><td>Reaction</td><td>Urticaria</td><td>Urticaria</td><td>Urticaria (MedDRA Preferred Term)</td><td>Direct match to reported reaction term.</td></tr><tr><td>Reaction detail</td><td>Mild facial swelling</td><td>Facial swelling</td><td>Face oedema (MedDRA Preferred Term)</td><td>Separate reported clinical sign; no extra severity inferred.</td></tr><tr><td>Outcome</td><td>Recovered/resolved</td><td>Recovered/resolved</td><td>Recovered/resolved</td><td>Case outcome field, not a reaction code.</td></tr><tr><td>Causality</td><td>Probable</td><td>Probable</td><td>Probable</td><td>Retained from source; not independently altered.</td></tr></table>
+<p><b>MedDRA note:</b> numeric codes are not fabricated; exact LLT/code selection requires the applicable licensed/current MedDRA browser/version.</p></div>
+<div class="card"><h2>2. Case Narrative</h2><p>ICSR-2026-0001 — CASE NARRATIVE</p><p>A 54-year-old female patient in India (patient ID PT-0001) with a medical history of hypertension and type 2 diabetes mellitus was treated with amoxicillin 500 mg capsules orally three times daily for acute bacterial sinusitis. Amoxicillin therapy started on 15 September 2026 and stopped on 19 September 2026 after the drug was withdrawn.</p><p>On 18 September 2026, approximately three days after treatment began, the patient developed generalized itchy raised wheals over the trunk and upper limbs with mild facial swelling. The reported adverse event term was urticaria. The event was assessed as non-serious. Cetirizine 10 mg orally once daily for three days was given for the event.</p><p>The patient recovered/resolved by 20 September 2026. Dechallenge was reported as positive and rechallenge was not done. Concomitant medicines were metformin 500 mg twice daily and amlodipine 5 mg once daily. No significant abnormality was reported in relevant laboratory tests. The reporter was a physician (MBBS, MD) from India.</p><p>The source case records the causality assessment as probable. This narrative uses only the supplied case facts and does not add an unreported diagnosis, test result, exposure, or causal conclusion.</p></div>
+<div class="card"><h2>3. Quality Control</h2><pre>MEDICAL CODING &amp; NARRATIVE QUALITY — QC CHECKLIST
+Case ID: ICSR-2026-0001
+
+[✓] Source case identified and retained.
+[✓] Patient demographics traceable to source.
+[✓] Product, dose, dosage form, route and frequency documented.
+[✓] Indication documented.
+[✓] Event verbatim term and description retained.
+[✓] Event onset and stop dates retained.
+[✓] Seriousness and outcome retained.
+[✓] Drug action, dechallenge and rechallenge retained.
+[✓] Concomitant medicines, treatment and laboratory information retained.
+[✓] Source causality assessment (&quot;Probable&quot;) retained without independent alteration.
+[✓] Narrative is chronological.
+[✓] Narrative is concise and neutral.
+[✓] Narrative does not invent missing facts.
+[✓] Facial swelling is separately represented as a reported clinical sign.
+[✓] Coding decisions include traceable rationale.
+
+CODING CAUTION
+Exact numeric MedDRA LLT/code selection requires access to the applicable licensed/current MedDRA browser/version. This worksheet therefore records the concept/Preferred Term representation and does not invent a numeric code.
+
+RESULT
+The narrative is traceable to the supplied source case and follows the patient timeline.
+</pre></div>
+<div class="card"><h2>4. Source Case</h2><table><tr><th>Case_ID</th><td>ICSR-2026-0001</td></tr><tr><th>Case_Type</th><td>Spontaneous</td></tr><tr><th>Initial_Receipt_Date</th><td>2026-09-22</td></tr><tr><th>Country</th><td>India</td></tr><tr><th>Patient_ID</th><td>PT-0001</td></tr><tr><th>Patient_Initials</th><td>R.K.</td></tr><tr><th>Patient_Sex</th><td>Female</td></tr><tr><th>Patient_Age</th><td>54</td></tr><tr><th>Age_Unit</th><td>Years</td></tr><tr><th>Weight_kg</th><td>68</td></tr><tr><th>Height_cm</th><td>160</td></tr><tr><th>Relevant_Medical_History</th><td>Hypertension; type 2 diabetes mellitus</td></tr><tr><th>Relevant_Past_Drug_History</th><td>No known previous reaction to the suspected drug</td></tr><tr><th>Reporter_Type</th><td>Physician</td></tr><tr><th>Reporter_Qualification</th><td>MBBS, MD</td></tr><tr><th>Reporter_Country</th><td>India</td></tr><tr><th>Suspect_Drug_Name</th><td>Amoxicillin</td></tr><tr><th>Suspect_Drug_Indication</th><td>Acute bacterial sinusitis</td></tr><tr><th>Suspect_Drug_Dose</th><td>500 mg</td></tr><tr><th>Suspect_Drug_Dosage_Form</th><td>Capsule</td></tr><tr><th>Suspect_Drug_Route</th><td>Oral</td></tr><tr><th>Suspect_Drug_Frequency</th><td>Three times daily</td></tr><tr><th>Therapy_Start_Date</th><td>2026-09-15</td></tr><tr><th>Therapy_Stop_Date</th><td>2026-09-19</td></tr><tr><th>Drug_Action_Taken</th><td>Drug withdrawn</td></tr><tr><th>Adverse_Event_Term</th><td>Urticaria</td></tr><tr><th>Adverse_Event_Description</th><td>Generalized itchy raised wheals over trunk and upper limbs with mild facial swelling</td></tr><tr><th>Event_Onset_Date</th><td>2026-09-18</td></tr><tr><th>Seriousness</th><td>Non-serious</td></tr><tr><th>Outcome</th><td>Recovered/resolved</td></tr><tr><th>Event_Stop_Date</th><td>2026-09-20</td></tr><tr><th>Dechallenge</th><td>Positive</td></tr><tr><th>Rechallenge</th><td>Not done</td></tr><tr><th>Concomitant_Drugs</th><td>Metformin 500 mg twice daily; Amlodipine 5 mg once daily</td></tr><tr><th>Relevant_Lab_Tests</th><td>No significant abnormality reported</td></tr><tr><th>Treatment_for_Event</th><td>Cetirizine 10 mg orally once daily for 3 days</td></tr><tr><th>Causality_Assessment</th><td>Probable</td></tr><tr><th>Additional_Comments</th><td>Symptoms appeared after approximately 3 days of therapy and resolved after withdrawal and symptomatic treatment.</td></tr></table></div>
+<div class="card"><h2>5. Reference</h2><p>ICH E2D(R1): narrative terms should be accurately reflected in appropriate ICH E2B data elements and clinical review should consider accuracy, completeness, temporal association, outcome and additional information needed.</p>
+<p><a href="https://database.ich.org/sites/default/files/ICH_E2D%28R1%29_Step4_FinalGuideline_2025_0819.pdf" target="_blank">Official ICH E2D(R1) guideline</a></p></div>
+</body></html>

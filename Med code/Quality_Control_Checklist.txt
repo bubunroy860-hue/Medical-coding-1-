@@ -1,0 +1,24 @@
+MEDICAL CODING & NARRATIVE QUALITY — QC CHECKLIST
+Case ID: ICSR-2026-0001
+
+[✓] Source case identified and retained.
+[✓] Patient demographics traceable to source.
+[✓] Product, dose, dosage form, route and frequency documented.
+[✓] Indication documented.
+[✓] Event verbatim term and description retained.
+[✓] Event onset and stop dates retained.
+[✓] Seriousness and outcome retained.
+[✓] Drug action, dechallenge and rechallenge retained.
+[✓] Concomitant medicines, treatment and laboratory information retained.
+[✓] Source causality assessment ("Probable") retained without independent alteration.
+[✓] Narrative is chronological.
+[✓] Narrative is concise and neutral.
+[✓] Narrative does not invent missing facts.
+[✓] Facial swelling is separately represented as a reported clinical sign.
+[✓] Coding decisions include traceable rationale.
+
+CODING CAUTION
+Exact numeric MedDRA LLT/code selection requires access to the applicable licensed/current MedDRA browser/version. This worksheet therefore records the concept/Preferred Term representation and does not invent a numeric code.
+
+RESULT
+The narrative is traceable to the supplied source case and follows the patient timeline.

@@ -1,0 +1,14 @@
+MEDICAL CODING AND NARRATIVE QUALITY — STEP-BY-STEP TASK GUIDE
+
+Objective: Produce traceable coding decisions and a neutral safety narrative without adding facts.
+
+1. Normalize product name, dose, route, indication and event terms.
+2. Map reported terms to the most appropriate available coding concepts while retaining the original wording.
+3. Write a chronological narrative using only supplied case facts.
+4. Perform quality control for traceability, consistency and unsupported assumptions.
+5. Submit one public or view-only link with supporting files kept together.
+
+Deliverables:
+• Coding worksheet
+• Case narrative
+• Quality-control checklist

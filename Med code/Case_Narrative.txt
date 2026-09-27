@@ -1,0 +1,9 @@
+ICSR-2026-0001 — CASE NARRATIVE
+
+A 54-year-old female patient in India (patient ID PT-0001) with a medical history of hypertension and type 2 diabetes mellitus was treated with amoxicillin 500 mg capsules orally three times daily for acute bacterial sinusitis. Amoxicillin therapy started on 15 September 2026 and stopped on 19 September 2026 after the drug was withdrawn.
+
+On 18 September 2026, approximately three days after treatment began, the patient developed generalized itchy raised wheals over the trunk and upper limbs with mild facial swelling. The reported adverse event term was urticaria. The event was assessed as non-serious. Cetirizine 10 mg orally once daily for three days was given for the event.
+
+The patient recovered/resolved by 20 September 2026. Dechallenge was reported as positive and rechallenge was not done. Concomitant medicines were metformin 500 mg twice daily and amlodipine 5 mg once daily. No significant abnormality was reported in relevant laboratory tests. The reporter was a physician (MBBS, MD) from India.
+
+The source case records the causality assessment as probable. This narrative uses only the supplied case facts and does not add an unreported diagnosis, test result, exposure, or causal conclusion.

@@ -1,0 +1,14 @@
+NARRATIVE AND CODING SOURCE GUIDE
+
+Source case: ICSR-2026-0001
+Source of truth: Narrative_Source_Cases.csv
+
+Rules:
+• Retain verbatim reaction wording for traceability.
+• Normalize without changing clinical meaning.
+• Do not invent numeric MedDRA codes.
+• Retain the source causality assessment as "Probable"; do not independently re-assess it.
+• Keep the narrative chronological and neutral.
+• Do not fill missing information with assumptions.
+
+Reference: ICH E2D(R1) requires narrative terms to be accurately reflected in appropriate ICH E2B data elements and emphasizes accuracy, completeness, temporal association, outcome and follow-up.
